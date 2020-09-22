@@ -36,13 +36,13 @@ r = requests.get(URL, params=PARAMS)
 Either use requests library
 
 ```
-URL = 'http://localhost:5000/fetchrewards/fetchrewards?string1=1.0.0&string2=1.0.1'
+URL = 'http://localhost:5000/fetchrewards/?string1=1.0.0&string2=1.0.1'
 r = requests.get(URL)
 ```
 
 or in browser just navigate straight to endpoint
 
-http://localhost:5000/fetchrewards/fetchrewards?string1=1.0.0&string2=1.0.1
+http://localhost:5000/fetchrewards/?string1=1.0.0&string2=1.0.1
 
 
 
