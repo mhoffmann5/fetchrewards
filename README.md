@@ -1,12 +1,8 @@
 # Michael Hoffmann Fetch Rewards Coding Exercise - Backend Software Engineering
 Submission 9/22
 
-&nbsp;
-
 ### Prerequisites 
 * Docker
-
-&nbsp;
 
 ### **Running the Web Service**
 
